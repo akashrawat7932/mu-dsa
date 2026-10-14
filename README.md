@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
+| [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
