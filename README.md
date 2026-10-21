@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/akashrawat7932/mu-dsa/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
 | [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/akashrawat7932/mu-dsa/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
