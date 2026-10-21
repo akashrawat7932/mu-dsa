@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/akashrawat7932/mu-dsa/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/akashrawat7932/mu-dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akashrawat7932/mu-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akashrawat7932/mu-dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
