@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/akashrawat7932/mu-dsa/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/akashrawat7932/mu-dsa/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
