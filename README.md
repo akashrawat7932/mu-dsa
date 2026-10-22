@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/akashrawat7932/mu-dsa/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/akashrawat7932/mu-dsa/tree/master/0595-big-countries) |
+| [3436-find-valid-emails](https://github.com/akashrawat7932/mu-dsa/tree/master/3436-find-valid-emails) |
 ## Dynamic Programming
 |  |
 | ------- |
