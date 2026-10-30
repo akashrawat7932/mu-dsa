@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akashrawat7932/mu-dsa/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/akashrawat7932/mu-dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0039-combination-sum) |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0219-contains-duplicate-ii) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 ## String
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0219-contains-duplicate-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
