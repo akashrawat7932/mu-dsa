@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/akashrawat7932/mu-dsa/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/akashrawat7932/mu-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akashrawat7932/mu-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/akashrawat7932/mu-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/akashrawat7932/mu-dsa/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashrawat7932/mu-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/akashrawat7932/mu-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
