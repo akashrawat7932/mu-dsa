@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/akashrawat7932/mu-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akashrawat7932/mu-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/akashrawat7932/mu-dsa/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/akashrawat7932/mu-dsa/tree/master/0217-contains-duplicate) |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akashrawat7932/mu-dsa/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
