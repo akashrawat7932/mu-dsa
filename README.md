@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
