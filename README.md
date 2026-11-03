@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
