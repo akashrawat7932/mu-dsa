@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akashrawat7932/mu-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/akashrawat7932/mu-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akashrawat7932/mu-dsa/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/akashrawat7932/mu-dsa/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akashrawat7932/mu-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
