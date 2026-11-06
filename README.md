@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akashrawat7932/mu-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/akashrawat7932/mu-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/akashrawat7932/mu-dsa/tree/master/0148-sort-list) |
 ## Sliding Window
 |  |
