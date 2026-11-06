@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akashrawat7932/mu-dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
