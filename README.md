@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
+| [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/akashrawat7932/mu-dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
