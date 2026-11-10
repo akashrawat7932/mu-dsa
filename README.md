@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3731-find-missing-elements) |
+| [3917-count-indices-with-opposite-parity](https://github.com/akashrawat7932/mu-dsa/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
 |  |
 | ------- |
