@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akashrawat7932/mu-dsa/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/akashrawat7932/mu-dsa/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0896-monotonic-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/akashrawat7932/mu-dsa/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
 | [1922-count-good-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/1922-count-good-numbers) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/akashrawat7932/mu-dsa/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/akashrawat7932/mu-dsa/tree/master/0905-sort-array-by-parity) |
