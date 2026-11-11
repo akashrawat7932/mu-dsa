@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/akashrawat7932/mu-dsa/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akashrawat7932/mu-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akashrawat7932/mu-dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/akashrawat7932/mu-dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/akashrawat7932/mu-dsa/tree/master/0905-sort-array-by-parity) |
@@ -185,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/akashrawat7932/mu-dsa/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -284,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0064-minimum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
