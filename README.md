@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/akashrawat7932/mu-dsa/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/akashrawat7932/mu-dsa/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/akashrawat7932/mu-dsa/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0509-fibonacci-number) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
+| [0477-total-hamming-distance](https://github.com/akashrawat7932/mu-dsa/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
