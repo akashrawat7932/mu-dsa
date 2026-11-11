@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akashrawat7932/mu-dsa/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/akashrawat7932/mu-dsa/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/akashrawat7932/mu-dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/akashrawat7932/mu-dsa/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/akashrawat7932/mu-dsa/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/akashrawat7932/mu-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/akashrawat7932/mu-dsa/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 ## String
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/akashrawat7932/mu-dsa/tree/master/0561-array-partition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/akashrawat7932/mu-dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
