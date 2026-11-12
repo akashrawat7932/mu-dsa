@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akashrawat7932/mu-dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akashrawat7932/mu-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3731-find-missing-elements) |
