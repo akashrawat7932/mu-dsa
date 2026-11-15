@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/akashrawat7932/mu-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akashrawat7932/mu-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0179-largest-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
