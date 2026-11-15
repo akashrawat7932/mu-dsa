@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/akashrawat7932/mu-dsa/tree/master/1672-richest-customer-wealth) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0064-minimum-path-sum) |
+| [1672-richest-customer-wealth](https://github.com/akashrawat7932/mu-dsa/tree/master/1672-richest-customer-wealth) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
