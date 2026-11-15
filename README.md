@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1480-running-sum-of-1d-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/akashrawat7932/mu-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/akashrawat7932/mu-dsa/tree/master/3024-type-of-triangle) |
