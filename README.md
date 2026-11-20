@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashrawat7932/mu-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/akashrawat7932/mu-dsa/tree/master/1672-richest-customer-wealth) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashrawat7932/mu-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2974-minimum-number-game](https://github.com/akashrawat7932/mu-dsa/tree/master/2974-minimum-number-game) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/akashrawat7932/mu-dsa/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashrawat7932/mu-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 ## String
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/0389-find-the-difference) |
 | [0477-total-hamming-distance](https://github.com/akashrawat7932/mu-dsa/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akashrawat7932/mu-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/akashrawat7932/mu-dsa/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
