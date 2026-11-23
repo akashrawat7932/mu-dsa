@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/akashrawat7932/mu-dsa/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0932-beautiful-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akashrawat7932/mu-dsa/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/akashrawat7932/mu-dsa/tree/master/1200-minimum-absolute-difference) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akashrawat7932/mu-dsa/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akashrawat7932/mu-dsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3046-split-the-array](https://github.com/akashrawat7932/mu-dsa/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/3731-find-missing-elements) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/akashrawat7932/mu-dsa/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/akashrawat7932/mu-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Quickselect
 |  |
 | ------- |
