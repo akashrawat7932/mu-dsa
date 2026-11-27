@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akashrawat7932/mu-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/akashrawat7932/mu-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/akashrawat7932/mu-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akashrawat7932/mu-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akashrawat7932/mu-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/akashrawat7932/mu-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/akashrawat7932/mu-dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/akashrawat7932/mu-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/akashrawat7932/mu-dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akashrawat7932/mu-dsa/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/akashrawat7932/mu-dsa/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
